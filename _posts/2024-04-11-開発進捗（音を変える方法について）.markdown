@@ -21,6 +21,6 @@
 
 この固定パーツの位置をずらしたり、板の長さを変えることでびっくりチキンの音を変えることができました。
 
-https://github.com/covelline/Maker-Faire-Tokyo/assets/2427741/45dd9cb1-ca1e-4fd1-a9c6-786ef4d61261
+<iframe src="https://drive.google.com/file/d/1cLAyeZnw1uMe04uXf51r266nsjDxXH43/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
