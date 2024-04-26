@@ -1,0 +1,15 @@
+# 4月26日開発進捗 : 押す機構について
+
+こんにちは！西池袋ガチ研究所です。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">トルクの暴力で無事鳴らすことができました <a href="https://t.co/V4WEaMtFdO">pic.twitter.com/V4WEaMtFdO</a></p>&mdash; 西池袋ガチ研究所@Maker Faire応募します (@gachiken_ikeb) <a href="https://twitter.com/gachiken_ikeb/status/1780908966157135890?ref_src=twsrc%5Etfw">April 18, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+今回は開発進捗の、びっくりチキンを押す機構についてです。
+
+最初にマイクロサーボ(SG-90)を購入して、いくつかの方法でチキンを鳴らすことを試したのですが、トルクやチキンを押す速度が十分ではないため、失敗で終わってしまいました。
+
+そこで、安価で強力なモーターとして、電動ドライバー、ドローン用ブラシレスモーターを試したのですが、ドローン用ブラシレスモーターは負荷がかかるとすぐに回転が止まってしまったり（危険性を考えたら当たり前）いずれも失敗で終わりました。
+
+色々試した結果、最終的にSG-90の13倍のトルクを持つサーボモーター(TD-8125MG)で機械的に音を鳴らすことに成功しました。
+
+今後はMIDI信号でこのサーボモーターを制御することに挑戦していきます。
