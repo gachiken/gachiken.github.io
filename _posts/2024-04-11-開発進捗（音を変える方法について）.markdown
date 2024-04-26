@@ -8,7 +8,9 @@
 
 そのパーツに、音程を変えるよう笛を模した穴の空いたストローを差し込んだのですが、呼気の強さで音の高さが変わるものの、穴の開閉では変わらないという実験結果になりました。
 
-![画像1](https://github.com/covelline/Maker-Faire-Tokyo/assets/2427741/5f4b954d-6d2f-45c8-8f39-6d3cd8ff0557)
+<iframe src="https://drive.google.com/file/d/10-u2okRpO32f8-WVysIksbFawgFIOQ_J/preview" width="640" height="480" allow="autoplay"></iframe>
+
+http://drive.google.com/uc?export=view&id={ID}
 
 色々と調べたところ、どうやらびっくりチキンの内部パーツは、フリーリードというリードが使われているようでした。
 
@@ -16,7 +18,7 @@
 
 実際にびっくりチキンを分解してみると次の写真の様なパーツが音を鳴らしている核の部分だということが分かりました。
 
-![画像1](https://github.com/covelline/Maker-Faire-Tokyo/assets/2427741/caf30f96-7a67-402a-97c4-a40a8a985b49)
+<iframe src="https://drive.google.com/file/d/1YHVMXuEFcwTd_9Se7KTZCzrnlbIAGarA/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
 この固定パーツの位置をずらしたり、板の長さを変えることでびっくりチキンの音を変えることができました。
