@@ -2,14 +2,17 @@
 
 今日は、Raspberry Piを使って、MIDIキーボードでサーボモーターを動かすところを作業しました。
 
-https://github.com/user-attachments/assets/3af7c325-7d34-43f2-bce5-70cc9dc5edf0
+<iframe src="https://drive.google.com/file/d/1EJ7b_FCdlOQowXd_fYWyXIIQnliwn3yL/preview" width="640" height="480" allow="autoplay"></iframe>
+
 
 検知できる情報として、以下の情報を取れることがわかりました。
 - キーを押した時、どのキーを押したか
 - どのくらいの強さで押したか
 - 離したとき、どのキーを離したか
 
-https://github.com/user-attachments/assets/90b4b127-3d69-4e81-86e6-dbfc957b14b2
+  
+<iframe src="https://drive.google.com/file/d/1nvW599f7S4lC1HbjPiz0iOS13SJ8EUJq/preview" width="640" height="480" allow="autoplay"></iframe>
+
 
 そこから、MIDIキーボードを押す強さによってLEDの発光の強弱を変えるところを作成しました。
 
