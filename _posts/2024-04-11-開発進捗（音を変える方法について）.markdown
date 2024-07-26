@@ -10,7 +10,6 @@
 
 <iframe src="https://drive.google.com/file/d/10-u2okRpO32f8-WVysIksbFawgFIOQ_J/preview" width="640" height="480" allow="autoplay"></iframe>
 
-http://drive.google.com/uc?export=view&id={ID}
 
 色々と調べたところ、どうやらびっくりチキンの内部パーツは、フリーリードというリードが使われているようでした。
 
