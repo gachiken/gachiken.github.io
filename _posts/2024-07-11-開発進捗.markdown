@@ -1,0 +1,15 @@
+こんにちは！西池袋ガチ研究所です。
+
+今週は、モータードライバを使ってサーボモーターを動かすところを着手しました。
+
+モータードライバ、Raspberry Pi、サーボモーターの組み方ですが、こちらの記事を参考にさせて頂きました。
+
+https://zenn.dev/naoya_oshiro/articles/fa95bd81e3ac8a
+
+仕様書の方を確認しながら、回路をはんだ付けしつつ進めていきました。
+
+![image](https://github.com/user-attachments/assets/e3ddc44d-a883-46f0-afd6-982a40d79d5d)
+
+モータードライバを実際に使ったことがあるメンバーがいないので初めてのことが多くて大変でしたが、無事モーターを動かすところまでできました！
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">ラズパイ→モータドライバ→サーボモーターの構成でサーボモーター動かせた！ <a href="https://t.co/f8VQlo3aOO">pic.twitter.com/f8VQlo3aOO</a></p>&mdash; 西池袋ガチ研究所@NT東京応募します (@gachiken_ikeb) <a href="https://twitter.com/gachiken_ikeb/status/1811363313252704378?ref_src=twsrc%5Etfw">July 11, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
