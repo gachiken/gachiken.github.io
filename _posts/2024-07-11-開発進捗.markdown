@@ -12,4 +12,4 @@ https://zenn.dev/naoya_oshiro/articles/fa95bd81e3ac8a
 
 モータードライバを実際に使ったことがあるメンバーがいないので初めてのことが多くて大変でしたが、無事モーターを動かすところまでできました！
 
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">ラズパイ→モータドライバ→サーボモーターの構成でサーボモーター動かせた！ <a href="https://t.co/f8VQlo3aOO">pic.twitter.com/f8VQlo3aOO</a></p>&mdash; 西池袋ガチ研究所@NT東京応募します (@gachiken_ikeb) <a href="https://twitter.com/gachiken_ikeb/status/1811363313252704378?ref_src=twsrc%5Etfw">July 11, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ラズパイ→モータドライバ→サーボモーターの構成でサーボモーター動かせた！ <a href="https://t.co/f8VQlo3aOO">pic.twitter.com/f8VQlo3aOO</a></p>&mdash; 西池袋ガチ研究所@NT東京応募します (@gachiken_ikeb) <a href="https://twitter.com/gachiken_ikeb/status/1811363313252704378?ref_src=twsrc%5Etfw">July 11, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
