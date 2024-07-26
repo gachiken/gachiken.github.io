@@ -1,0 +1,20 @@
+こんにちは！西池袋ガチ研究所です。
+
+今週はチキンで音階を作成しました！
+
+チキンを分解していくと、音を出すパーツとしてこのような部品が出てきます。
+
+船のような形の土台の上に薄いプラスチックの板が固定されており、空気を送ることでプラスチックの板が振動すると音が鳴る仕組みになっています。
+
+このプラスチックの板の留め具の位置を左右にずらすことで、リードの長さを調節して音程を変えています。
+
+
+
+![image](https://github.com/user-attachments/assets/78b127b6-bcca-425c-99ec-4951d3af156b)
+
+非常にシビアな調整が必要で、何度も押したときに音程が変わらないかの調査も必要だったりしますが、ひとまず音階を作成することができました。
+
+空気を送り込む強さでも音程が変わってしまうので非常に難しいですが、できる限り頑張りたいと思います。
+
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="ja" dir="ltr">チキンで音階できた！ <a href="https://t.co/6Q0vT41EC5">pic.twitter.com/6Q0vT41EC5</a></p>&mdash; 西池袋ガチ研究所@NT東京応募します (@gachiken_ikeb) <a href="https://twitter.com/gachiken_ikeb/status/1809128673364357624?ref_src=twsrc%5Etfw">July 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
