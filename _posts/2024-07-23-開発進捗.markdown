@@ -11,8 +11,7 @@
 ![IMG_9873](https://github.com/user-attachments/assets/fc482919-da5a-424e-bdb8-801484a26800)
 
 
-https://drive.google.com/file/d/19W7mC3AK5jJmPE_l2dB26z6W02PVWIb_/view?usp=drive_link
-
+<iframe src="https://drive.google.com/file/d/19W7mC3AK5jJmPE_l2dB26z6W02PVWIb_/preview" width="640" height="480" allow="autoplay"></iframe>
 
 また、プログラミングができるメンバーに、MIDIキーボードを押したらいい感じにサーボモーターが動くようなプログラムを書いてもらったり、音程を調整するために音のなるチューブ部分に送る空気の量を一定にできないか試したりしました。
 
