@@ -1,0 +1,21 @@
+こんにちは！西池袋ガチ研究所です。
+
+今週は、一つ分のチキンを鳴らす装置を完成させるため、本番で使う予定の木材にPCで作成した設計図を書き込んで加工していく作業をしました。
+
+板に加工の寸法を書き起こす作業
+
+![IMG_9872](https://github.com/user-attachments/assets/1ed006b9-976a-4ad1-9859-969260d171ce)
+
+人生初のホールソー先輩
+
+![IMG_9873](https://github.com/user-attachments/assets/fc482919-da5a-424e-bdb8-801484a26800)
+
+
+https://github.com/user-attachments/assets/4eb1398b-7ae4-4ed1-95f7-c8b81502dd06
+
+
+また、プログラミングができるメンバーに、MIDIキーボードを押したらいい感じにサーボモーターが動くようなプログラムを書いてもらったり、音程を調整するために音のなるチューブ部分に送る空気の量を一定にできないか試したりしました。
+
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/CI8GzAEmEN">pic.twitter.com/CI8GzAEmEN</a></p>&mdash; 西池袋ガチ研究所@NT東京 J-2 (@gachiken_ikeb) <a href="https://twitter.com/gachiken_ikeb/status/1816746495292637287?ref_src=twsrc%5Etfw">July 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+音の部分は音程の調整が難しかったり、数日経過すると音程が変わってしまったり、不安要素が多いので大変ですが頑張りたいと思います。
