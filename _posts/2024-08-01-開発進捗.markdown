@@ -22,6 +22,10 @@ https://qiita.com/Erytheia/items/f362a3d68e57cd088713
 
 サーボモーターを使ってチキンを鳴らすときに、お腹を押し込みすぎるとチキンのガワが凹んでしまって押し込めなくなる問題があったので、チキンの内側にペットボトルのキャップを仕込んで引っ張る仕組みを試したりしました。
 
+![IMG_9908](https://github.com/user-attachments/assets/e49105a1-0d31-434c-98c5-3a390433866e)
+
 <iframe src="https://drive.google.com/file/d/1OlGDO1-eT006oGun_1mGwWSx67khKF2B//preview" width="640" height="480" allow="autoplay"></iframe>
+
+
 
 雑に試してみた割には、良い感じに動作したのでこの方式で対策しようと思います。
