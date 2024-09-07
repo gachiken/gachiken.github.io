@@ -6,10 +6,14 @@
 
 ブレットボード初心者のため、なんにもつながっていない回路を作ってしまったりとアクシデントもありましたが、無事にraspberry pi + モータードライバの構成でサーボモーターを動かすことができました。
 
+なんにもつながっていない回路
 ![IMG_5214](https://github.com/user-attachments/assets/ca5d9a3e-7a2c-470e-a5a6-b6286e64855c)
 
+他のメンバーに教えてもらった。
 ![image](https://github.com/user-attachments/assets/35029c48-8314-47e0-9d41-a71d33f2bac6)
 
+
+実際に動いた動画
 <iframe src="https://drive.google.com/file/d/1KKNz-do0UszJSMwNndyTR38z211kYZtk/preview" width="640" height="480" allow="autoplay"></iframe>
 
 次は、実際にチキンを鳴らすためのサーボモーターの動きをプログラミングしていこうと思います！
