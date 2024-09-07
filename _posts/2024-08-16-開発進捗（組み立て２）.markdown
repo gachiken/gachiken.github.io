@@ -1,0 +1,17 @@
+こんにちは！西池袋ガチ研究所です。
+
+先週は無事チキンを鳴らす機構を1音分完成することができたので、今週はチキンの音程を増やすべく、パーツを量産したり加工することろを取り組みました。
+
+板に大量に穴を開けたり
+![IMG_9954](https://github.com/user-attachments/assets/d78aaa0e-bab6-41b8-bba0-658aa0597f92)
+
+サーボモーターでチキンを押すためのアルミ角をノコギリでカットしたり
+![IMG_9957](https://github.com/user-attachments/assets/e0ba860c-091b-4663-9e8d-3b4796ce4bc9)
+
+アルミ角をカットしすぎて指にタコができたり
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">アルミのカットしすぎて指にタコできた <a href="https://t.co/AS6ZYAqnk4">pic.twitter.com/AS6ZYAqnk4</a></p>&mdash; 西池袋ガチ研究所@NT東京 J-2 (@gachiken_ikeb) <a href="https://twitter.com/gachiken_ikeb/status/1826567689399402982?ref_src=twsrc%5Etfw">August 22, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+なんとか複数の音を鳴らすことに成功
+<iframe src="https://drive.google.com/file/d/1FR3QQ8lUE6aI5wFe2nIR-1-DdK58zEFz/preview" width="640" height="480" allow="autoplay"></iframe>
+
+今のプログラムだと遅延がありすぎて演奏が難しいので、来週はピアノを弾いた感がでるようにチューニングをやっていこうと思います。
