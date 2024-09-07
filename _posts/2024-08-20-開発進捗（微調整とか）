@@ -1,0 +1,22 @@
+こんにちは！西池袋ガチ研究所です。
+
+今週は、チキンを取り付ける板2枚を自立するように加工したり、サーボモーターで押しているとチキンがずれていってしまう問題を対策したりと、本番に向けた微調整を行いました。
+
+全部とりつけて自立するようにした
+![スクリーンショット 2024-09-07 210444](https://github.com/user-attachments/assets/7fd3ae23-57d8-4a56-85ec-ae1fae86f544)
+
+正面から見た絵面。かなり圧がある。
+![IMG_9986](https://github.com/user-attachments/assets/8ea00f73-2fc2-4473-b44e-8dbee536ce02)
+
+チキンがずれていってしまう問題は、脚を板で挟み込むようにすることで対策しました。
+![IMG_9990](https://github.com/user-attachments/assets/0b7ecd11-c129-46c3-85b6-a3b7f7f4a148)
+
+絵面が凄いことになってきた。
+![IMG_9989](https://github.com/user-attachments/assets/b5c64d7b-18eb-44cb-bed3-4774ffaec40b)
+
+また、Raspberry Pi とモータードライバーを一つにまとめて板の背面に取り付けたりしました。
+![IMG_9983](https://github.com/user-attachments/assets/3500e92d-a0e9-4fe3-87c8-d14c213d5ff4)
+
+![IMG_0023](https://github.com/user-attachments/assets/b73ed184-b008-4aaa-905c-4cb974d2ea54)
+
+あと2週間程度で本番ですが、なんとか完成まで辿り着けそうです。ラストスパート頑張るぞ！
